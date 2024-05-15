@@ -1,3 +1,9 @@
+
+
+
+https://github.com/MeetPatel092/festival-app-/assets/149999890/49098c41-7c60-4516-a075-fdd83b845d9e
+
+
 # Festify App
 
 Festify is a simple Flutter application that helps you discover local music festivals and events.
@@ -29,9 +35,8 @@ To get started with Festify, make sure you have Flutter installed on your machin
 
 ## Screenshots
 
-![Splash Screen](screenshots/splash_screen.png)
-![Home Page](screenshots/home_page.png)
-![Event Detail Page](screenshots/detail_page.png)
+![Artboard 1](https://github.com/MeetPatel092/festival-app-/assets/149999890/356c1aa5-b1d3-45ef-934b-7bcce9a6ec39)
+
 
 ## Dependencies
 
